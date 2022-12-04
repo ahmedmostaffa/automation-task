@@ -1,0 +1,4 @@
+[INFO ] 2022-11-12 20:01:33,650 base.BaseTest:26 - Initialize 'chrome' driver successfully at Thread 1
+[INFO ] 2022-11-12 20:01:49,973 base.BaseTest:38 - close the session
+[INFO ] 2022-11-12 20:01:50,798 base.BaseTest:26 - Initialize 'chrome' driver successfully at Thread 1
+[INFO ] 2022-11-12 20:02:05,052 base.BaseTest:38 - close the session
