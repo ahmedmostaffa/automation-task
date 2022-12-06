@@ -29,6 +29,7 @@ public class BaseTest extends AbstractTestNGCucumberTests {
 		
 		getDriver().manage().timeouts().pageLoadTimeout(Duration.ofSeconds(PAGE_LOAD_TIMEOUT));
 		getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(IMPLICIT_WAIT));
+                System.out.println(System.getProperty("os.name"));
 	
 	}
 
