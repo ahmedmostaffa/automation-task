@@ -6,7 +6,7 @@ import utilities.element.ElementActions;
 
 public class HomePage {
     private WebDriver driver;
-    By languageLink=By.xpath("//ul/li[2]/a[@href='#']");
+    By languageLink=By.xpath("(//*[@class='dropdown'])[1]");
     By searchButton=By.cssSelector("div.search>button");
     By searchInput=By.id("txt_search_query");
     By searchMagnifier=By.id("btn_global_search");
