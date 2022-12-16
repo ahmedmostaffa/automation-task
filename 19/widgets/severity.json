@@ -1,0 +1,1 @@
+[{"uid":"a54fdf1ece237e20","name":"Runs Cucumber Scenarios","time":{"start":1671195910290,"stop":1671195910290,"duration":0},"status":"skipped","severity":"normal"},{"uid":"a710afa71ae6bde8","name":"setUp","time":{"start":1671195910223,"stop":1671195910226,"duration":3},"status":"broken","severity":"normal"}]

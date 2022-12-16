@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Fri Dec 16 13:05:10 GMT 2022","Fri Dec 16 13:05:10 GMT 2022","3","Suite","Test","runners.TestRunner","runners.TestRunner","setUp","setUp",""
+"skipped","Fri Dec 16 13:05:10 GMT 2022","Fri Dec 16 13:05:10 GMT 2022","0","Suite","Test","runners.TestRunner","runners.TestRunner","runScenario","Runs Cucumber Scenarios",""
